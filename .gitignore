@@ -1,0 +1,38 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+.vscode/ # If you use VS Code for development
+.history/ # If you use extensions that create history files
+
+# Environment variables and virtual environments
+.env
+venv/
+env/
+__pycache__/
+
+# Python specific
+*.pyc
+*.o
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data files (if they are large or generated outputs that don't need version control)
+# Be careful when ignoring data: only do so if you don't need to track its changes.
+# Otherwise, consider Git LFS for large data files.
+data/
+output/
+*.csv
+*.tsv
+*.parquet
+*.hdf5
+*.pkl
+*.feather
+
+# Log files
+*.log
+
+# Operating System Files
+.DS_Store # macOS specific hidden file
+Thumbs.db # Windows specific hidden file
