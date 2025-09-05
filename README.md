@@ -8,7 +8,7 @@ Below, you'll find the grading criteria from the original project, included here
 
 ---
 
-## Group Assignment Instructions & Grading Criteria (Original Context)
+## Group Assignment Instructions & Grading Criteria
 
 This document describes the requirements and grading criteria for the RMBA 2771 Fall 2024 group assignment.
 
